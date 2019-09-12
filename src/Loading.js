@@ -7,7 +7,7 @@ export default (props) => {
     return (
         <div className={style.autoSuggest}>
             <Button type="primary">
-                antd  
+                antd-components 
             </Button>
             <Button>{props.buttonName}</Button>
         </div>
